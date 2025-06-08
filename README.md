@@ -3,7 +3,7 @@
 A collection of Python scripts for learning and experimentation.
 
 ## 📂 Project Structure
-School_Class_Artificial Intelligence and Machine Learning/
+School_Class_Artificial Intelligence and Machine Learning//
 ├── classifier_target_manual.py
 ├── classifier_target_auto.py
 ├── nn_weight_update_3layer_2node_forward.py
